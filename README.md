@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Party 👋
 
-<!--
-**Party233/Party233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android Security Enthusiast and Reverse Engineering Learner.  
+Explore my projects and feel free to reach out if you're interested in Android security!
 
-Here are some ideas to get you started:
+[![It's My Github](https://github-readme-stats.vercel.app/api?username=Party233&show_icons=true&theme=radical)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Currently Studying
+
+- **Android Reverse Engineering**  
+  Diving into Android app security and reverse engineering techniques.
+
+---
+
+## 📫 Reach Me
+
+- **Email**: [mikifc233@outlook.com](mailto:mikifc233@outlook.com)
+- **GitHub**: [Party233](https://github.com/Party233)
+
+---
+
+Thanks for visiting! Let’s connect and learn together. 🚀
