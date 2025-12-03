@@ -3,8 +3,6 @@
 I'm an Android Security Enthusiast and Reverse Engineering Learner.  
 Explore my projects and feel free to reach out if you're interested in Android security!
 
-[![It's My Github](https://github-readme-stats.vercel.app/api?username=Party233&show_icons=true&theme=radical)]()
-
 ---
 
 ## 🔭 Currently Studying
